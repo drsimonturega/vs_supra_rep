@@ -17,8 +17,7 @@ This is a reanalysis of the predictive model from the "Virtual screening for hig
 
 ## Usage instructions
 
-Currently we make a local lib folder ```mkdir lib``` in our home folder change to that folder.
-
+Currently we make run the our notebook [vs_supra_rep_002.ipynb](https://github.com/drsimonturega/vs_supra_rep/blob/main/vs_supra_rep_002.ipynb)
 ## File structure of the project
 
 Initaly there are five python files, *dat_tran.py*, *datframe_inf.py*, *datframe_tran.py*, *plotter.py* and *db_utils.py* that contains the classes and methods used in this project. The each file contains a class of related methods for a specific part of the analysis the methods are run in a juypter note book *EDA.iypnb*.
