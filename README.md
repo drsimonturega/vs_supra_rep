@@ -14,6 +14,7 @@ This is a reanalysis of the predictive model from the "Virtual screening for hig
 
 ## Code development
 This repoduces the analysis in the manuscript and then reanalysis the data using a current data science approach. The code is writen in python and run in a google colab notebook. It uses my data science library [simons_data_science_library](https://github.com/drsimonturega/simons_data_science_library) to facilitate the complettion of the task in a one hour session.
+I will be include a new Python method that removes folders provided by a list. This is for incorporation into my data science library once I'm happy with the method.
 
 ## Usage instructions
 Currently we run our analysis in the notebook [vs_supra_rep_002.ipynb](https://github.com/drsimonturega/vs_supra_rep/blob/main/vs_supra_rep_002.ipynb)
@@ -24,4 +25,6 @@ There are **.txt* files copied from the suplimentory information in the manscrip
 
 
 ## License information
+
+GNU General Public License v3.0
 
